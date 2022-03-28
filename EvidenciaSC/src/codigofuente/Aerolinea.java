@@ -1,6 +1,7 @@
 package codigofuente;
 
 
+
 public class Aerolinea {
 public static String Nombre;
 public static String Nacionalidad; 
